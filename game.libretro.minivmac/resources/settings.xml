@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="minivmac_Statusbar" values="disabled|enabled" default="disabled"/>
+		<setting label="30002" type="select" id="minivmac_kbdtype" values="Callback|Poll" default="Callback"/>
+	</category>
+</settings>

@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.10.1\n"
 
+msgctxt "Addon Summary"
+msgid "Mac II (minivmac)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mini vMac is an emulator for the Macintosh Plus, a computer sold by Apple from 1984 to 1996."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Inställningar"

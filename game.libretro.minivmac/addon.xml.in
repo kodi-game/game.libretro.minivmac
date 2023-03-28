@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.minivmac"
 		name="Mac II (minivmac)"
-		version="0.0.1.2"
+		version="0.0.1.3"
 		provider-name="Paul C. Pratt, Philip Cummins, Bernd Schmidt, Weston Pawlowski, Richard F. Bannister, Sam Lantinga, Michael Hanni, Michael Fort, Jesus A. Alvarez, Manuel Alfayate, Christian Bauer, Lazyone">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.minivmac</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Mac II (minivmac)</summary>
 		<description lang="en_GB">Mini vMac is an emulator for the Macintosh Plus, a computer sold by Apple from 1984 to 1996.</description>
 	</extension>

@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Mac II (minivmac) icon](game.libretro.minivmac/resources/icon.png)
 
 ### Fanart
 

@@ -21,7 +21,13 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Mac II (minivmac)</summary>
 		<summary lang="en_GB">Mac II (minivmac)</summary>
+		<summary lang="es_ES">Mac II (minivmac)</summary>
+		<summary lang="it_IT">Mac II (minivmac)</summary>
+		<description lang="da_DK">Mini vMac er en emulator til Macintosh Plus, en computer solgt af Apple fra 1984 til 1996.</description>
 		<description lang="en_GB">Mini vMac is an emulator for the Macintosh Plus, a computer sold by Apple from 1984 to 1996.</description>
+		<description lang="es_ES">Mini vMac es un emulador de Macintosh Plus, un ordenador vendido por Apple de 1984 a 1996.</description>
+		<description lang="it_IT">Mini vMac è un emulatore del Macintosh Plus, un computer venduto da Apple dal 1984 al 1996.</description>
 	</extension>
 </addon>

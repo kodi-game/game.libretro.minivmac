@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.minivmac"
 		name="Mac II (minivmac)"
-		version="0.0.1.6"
+		version="0.0.1.7"
 		provider-name="Paul C. Pratt, Philip Cummins, Bernd Schmidt, Weston Pawlowski, Richard F. Bannister, Sam Lantinga, Michael Hanni, Michael Fort, Jesus A. Alvarez, Manuel Alfayate, Christian Bauer, Lazyone">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>

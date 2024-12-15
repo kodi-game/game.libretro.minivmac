@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mini vMac is an emulator for the Macintosh Plus, a computer sold by Apple from 1984 to 1996."
 msgstr "Mini vMac je emulator za Macintosh Plus, računalnik, ki ga je Apple prodajal od leta 1984 do 1996."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Status Bar"
 msgstr "Statusna vrstica"
@@ -36,3 +32,7 @@ msgstr "Statusna vrstica"
 msgctxt "#30002"
 msgid "Keyboard Type"
 msgstr "Vrsta tipkovnice"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"

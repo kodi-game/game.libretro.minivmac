@@ -1,1 +1,1 @@
-minivmac https://github.com/kodi-game/libretro-minivmac/archive/05caa7714f6779254aafe2b3f7476b5b6d19acb2.tar.gz
+minivmac https://github.com/kodi-game/libretro-minivmac/archive/3f47ac94d6b9104d39e894ff416757f240993738.tar.gz

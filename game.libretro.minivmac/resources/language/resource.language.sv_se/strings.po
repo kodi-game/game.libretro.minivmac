@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.minivmac\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 20:42i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:06+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-minivmac/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,11 +27,11 @@ msgstr "Mini vMac är en emulator för Macintosh Plus, en dator som såldes av A
 
 msgctxt "#30001"
 msgid "Status Bar"
-msgstr ""
+msgstr "Statusrad"
 
 msgctxt "#30002"
 msgid "Keyboard Type"
-msgstr ""
+msgstr "Tangentbordstyp"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
